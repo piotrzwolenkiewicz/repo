@@ -6,4 +6,6 @@ def dodawanie():
 def get_info():
     print(":fbafbaskb:")
 
+get_info()
 dodawanie()
+
